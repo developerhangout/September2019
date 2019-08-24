@@ -1,4 +1,4 @@
-#Developer Hangout July 2019 Challenge
+# Developer Hangout September 2019 Challenge
 Build a stocks data API 
 
 ## Rules
