@@ -1,14 +1,21 @@
 # Developer Hangout September 2019 Challenge
-Build a stocks data API 
+Build an imaginary stocks data API 
 
 ## Rules
 1. Requirements: 
-  - Must offer 25 or more stocks
-  - Must offer current buy and sell price of each stock
+  - Must offer 25 or more imaginary stocks
+  - Each Stock must feature:
+    - A unique 5 letter code (Ticker)
+    - A Current Buy price
+    - A Current Sell price
+    - A Market Price (average of buy and sell prices)
+    - A Market Category
   - Must offer daily market close price of each stock for last 30 days
+  - API must offer at least basic documentation
 2. Stretch Goals (not required):
+  - Better documentation
   - Auto-update prices each minute
-  - Compare 2 stocks
+  - Fetch details on multiple stocks in one request
   - Have stock categories, and allow fetching all stocks in category
 3. Submissions are **only** accepted by submitting a [Pull Request](https://help.github.com/en/articles/about-pull-requests) to the source github repo
   - Submission Deadline is Noon GMT, October 1 2019
