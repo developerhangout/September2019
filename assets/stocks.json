@@ -1,0 +1,179 @@
+{
+  "stocks": [
+    {
+      "ticker": "PFMUU",
+      "buyPrice": 452,
+      "sellPrice": 444,
+      "marketPrice": 674,
+      "category": "Banking"
+    },
+    {
+      "ticker": "SYAQP",
+      "buyPrice": 98,
+      "sellPrice": 89,
+      "marketPrice": 142.5,
+      "category": "Banking"
+    },
+    {
+      "ticker": "SJVBV",
+      "buyPrice": 50,
+      "sellPrice": 49,
+      "marketPrice": 74.5,
+      "category": "Mining"
+    },
+    {
+      "ticker": "DTILH",
+      "buyPrice": 159,
+      "sellPrice": 159,
+      "marketPrice": 238.5,
+      "category": "Banking"
+    },
+    {
+      "ticker": "NYGIQ",
+      "buyPrice": 283,
+      "sellPrice": 281,
+      "marketPrice": 423.5,
+      "category": "Constuction"
+    },
+    {
+      "ticker": "DWDVR",
+      "buyPrice": 192,
+      "sellPrice": 191,
+      "marketPrice": 287.5,
+      "category": "Technology"
+    },
+    {
+      "ticker": "XJBKE",
+      "buyPrice": 202,
+      "sellPrice": 200,
+      "marketPrice": 302,
+      "category": "Shipping"
+    },
+    {
+      "ticker": "GWIFD",
+      "buyPrice": 290,
+      "sellPrice": 290,
+      "marketPrice": 435,
+      "category": "Constuction"
+    },
+    {
+      "ticker": "JFPGM",
+      "buyPrice": 361,
+      "sellPrice": 355,
+      "marketPrice": 538.5,
+      "category": "Banking"
+    },
+    {
+      "ticker": "DDKCN",
+      "buyPrice": 164,
+      "sellPrice": 162,
+      "marketPrice": 245,
+      "category": "Mining"
+    },
+    {
+      "ticker": "AHRTE",
+      "buyPrice": 38,
+      "sellPrice": 35,
+      "marketPrice": 55.5,
+      "category": "Constuction"
+    },
+    {
+      "ticker": "EQUTF",
+      "buyPrice": 261,
+      "sellPrice": 261,
+      "marketPrice": 391.5,
+      "category": "Banking"
+    },
+    {
+      "ticker": "KLNSN",
+      "buyPrice": 483,
+      "sellPrice": 478,
+      "marketPrice": 722,
+      "category": "Shipping"
+    },
+    {
+      "ticker": "XSKNP",
+      "buyPrice": 23,
+      "sellPrice": 14,
+      "marketPrice": 30,
+      "category": "Technology"
+    },
+    {
+      "ticker": "QAJCR",
+      "buyPrice": 387,
+      "sellPrice": 387,
+      "marketPrice": 580.5,
+      "category": "Constuction"
+    },
+    {
+      "ticker": "ECYCG",
+      "buyPrice": 261,
+      "sellPrice": 252,
+      "marketPrice": 387,
+      "category": "Technology"
+    },
+    {
+      "ticker": "HEKGD",
+      "buyPrice": 475,
+      "sellPrice": 473,
+      "marketPrice": 711.5,
+      "category": "Shipping"
+    },
+    {
+      "ticker": "BOADS",
+      "buyPrice": 142,
+      "sellPrice": 142,
+      "marketPrice": 213,
+      "category": "Technology"
+    },
+    {
+      "ticker": "TELWO",
+      "buyPrice": 236,
+      "sellPrice": 231,
+      "marketPrice": 351.5,
+      "category": "Shipping"
+    },
+    {
+      "ticker": "WYGUS",
+      "buyPrice": 91,
+      "sellPrice": 89,
+      "marketPrice": 135.5,
+      "category": "Mining"
+    },
+    {
+      "ticker": "MMBBS",
+      "buyPrice": 423,
+      "sellPrice": 423,
+      "marketPrice": 634.5,
+      "category": "Constuction"
+    },
+    {
+      "ticker": "LSJIT",
+      "buyPrice": 116,
+      "sellPrice": 116,
+      "marketPrice": 174,
+      "category": "Shipping"
+    },
+    {
+      "ticker": "EKAXI",
+      "buyPrice": 393,
+      "sellPrice": 389,
+      "marketPrice": 587.5,
+      "category": "Banking"
+    },
+    {
+      "ticker": "PBDIL",
+      "buyPrice": 363,
+      "sellPrice": 359,
+      "marketPrice": 542.5,
+      "category": "Mining"
+    },
+    {
+      "ticker": "IEFPB",
+      "buyPrice": 335,
+      "sellPrice": 329,
+      "marketPrice": 499.5,
+      "category": "Technology"
+    }
+  ]
+}
