@@ -1,4 +1,4 @@
-# Developer Hangout July 2019 Challenge
+# Developer Hangout September 2019 Challenge
 ## About Me:
 - Discord user ID:
 	- JoeSample#1111
