@@ -1,0 +1,30 @@
+{
+  "name": "september2019",
+  "version": "1.0.0",
+  "description": "an imaginary stocks api for a dev challange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "10.15.1"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frknn/September2019.git"
+  },
+  "author": "frkNN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frknn/September2019/issues"
+  },
+  "homepage": "https://github.com/frknn/September2019#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "swagger-ui-express": "^4.1.0"
+  }
+}
