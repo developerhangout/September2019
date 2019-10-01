@@ -11,7 +11,7 @@ exports.openApiDoc = {
       "description": "Local server"
     },
     {
-      "url": "https://api_url_production",
+      "url": "https://imaginary-stocks.herokuapp.com",
       "description": "Production server"
     }
   ],
