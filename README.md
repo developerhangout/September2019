@@ -9,4 +9,4 @@
 I tried to implement the requirements with Node and Express, using the 5 letter ticker code for endpoints.
 
 ## Live Demo:
-- https://example.com/my-api
+- https://imaginary-stocks.herokuapp.com
